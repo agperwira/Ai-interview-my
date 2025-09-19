@@ -1,6 +1,5 @@
 streamlit==1.37.1
 SpeechRecognition==3.10.4
 pydub==0.25.1
-streamlit-webrtc==0.47.7
-av==12.3.0
-numpy>=1.26
+
+
